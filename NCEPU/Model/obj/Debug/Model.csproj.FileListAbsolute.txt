@@ -1,0 +1,10 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\Model\bin\Debug\Model.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\Model\obj\Debug\Model.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Documents\visual studio 2010\Projects\NCEPU\NCEPU\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

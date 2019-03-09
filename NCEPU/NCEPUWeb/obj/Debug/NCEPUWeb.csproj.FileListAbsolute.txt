@@ -1,0 +1,50 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\NCEPUWeb.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\NCEPUWeb.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\BLL.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\Model.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\DAL.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\BLL.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\Model.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\DAL.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\AspNetPager.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\CKEditor.NET.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\NCEPUWeb\bin\CKFinder.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.csprojResolveAssemblyReference.cache
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.dll
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\NCEPUWeb.dll
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\NCEPUWeb.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\BLL.dll
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\Model.dll
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\DAL.dll
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\BLL.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\Model.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\AspNetPager.xml
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\CKEditor.NET.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\CKFinder.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\bin\DAL.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\bin\NCEPUWeb.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\bin\NCEPUWeb.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\bin\BLL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\bin\Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\bin\DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\bin\BLL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\bin\Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\bin\DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.pdb
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\bin\NCEPUWeb.dll
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\bin\NCEPUWeb.pdb
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\bin\BLL.dll
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\bin\Model.dll
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\bin\DAL.dll
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\bin\BLL.pdb
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\bin\Model.pdb
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\bin\DAL.pdb
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.csprojResolveAssemblyReference.cache
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.dll
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\NCEPUWeb\obj\Debug\NCEPUWeb.pdb

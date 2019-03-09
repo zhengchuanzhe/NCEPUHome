@@ -1,0 +1,14 @@
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\DAL\bin\Release\DAL.dll
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\DAL\bin\Release\DAL.pdb
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\DAL\bin\Release\Model.dll
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\DAL\bin\Release\Model.pdb
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\DAL\obj\Release\DAL.dll
+C:\Users\cz\Desktop\ncepu20170414\NCEPU\NCEPU\DAL\obj\Release\DAL.pdb
+E:\保定校区主页代码\ncepu20170414\NCEPU\NCEPU\DAL\bin\Release\DAL.dll
+E:\保定校区主页代码\ncepu20170414\NCEPU\NCEPU\DAL\bin\Release\DAL.pdb
+E:\保定校区主页代码\ncepu20170414\NCEPU\NCEPU\DAL\bin\Release\Model.dll
+E:\保定校区主页代码\ncepu20170414\NCEPU\NCEPU\DAL\bin\Release\Model.pdb
+E:\保定校区主页代码\ncepu20170414\NCEPU\NCEPU\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\保定校区主页代码\ncepu20170414\NCEPU\NCEPU\DAL\obj\Release\DAL.dll
+E:\保定校区主页代码\ncepu20170414\NCEPU\NCEPU\DAL\obj\Release\DAL.pdb

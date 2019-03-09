@@ -1,0 +1,27 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NCEPU\BLL\obj\Debug\BLL.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\BLL\bin\Debug\BLL.dll
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\BLL\bin\Debug\BLL.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\BLL\bin\Debug\DAL.dll
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\BLL\bin\Debug\Model.dll
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\BLL\bin\Debug\DAL.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\BLL\bin\Debug\Model.pdb
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\BLL\obj\Debug\BLL.dll
+C:\Users\ncepuhxh\Desktop\NCEPU\NCEPU\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NCEPU\NCEPU\BLL\obj\Debug\BLL.pdb
